@@ -1,1 +1,6 @@
-# DataAnalysisTask-1C
+# Задача по теме "Анализ Данных" для поступления на кафедру КИС компании 1С.
+Семенов Богдан. Группа -- Б05-811. 
+e-mail: Semenov.BV@phystech.edu, vk: https://vk.com/s_bogdan_v
+
+
+### Описание 
